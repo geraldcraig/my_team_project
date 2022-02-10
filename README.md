@@ -4,4 +4,5 @@ added new text
 local changes made
 new branch created
 mac mini added
+Mac mini made update
 
