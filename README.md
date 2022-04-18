@@ -7,4 +7,5 @@ mac mini added
 Mac mini made update
 github added
 gitlab added
+added to github
 
